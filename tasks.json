@@ -1,0 +1,12 @@
+{
+    "webp-dest1": {
+        "sourcePath": "./dest/dest1",
+        "destPath": "./dest/dest1",
+        "watchPath": "dest/dest1"
+    },
+    "webp-dest2": {
+        "sourcePath": "./dest/dest2",
+        "destPath": "./dest/dest2",
+        "watchPath": "dest/dest2"
+    }
+}
